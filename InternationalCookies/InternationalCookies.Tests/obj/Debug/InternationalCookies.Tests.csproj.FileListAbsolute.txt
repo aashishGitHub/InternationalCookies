@@ -1,0 +1,1 @@
+C:\Study\StudyMaterials\Fullstack\InternationalCookies\InternationalCookies.Tests\obj\Debug\InternationalCookies.Tests.csprojResolveAssemblyReference.cache
